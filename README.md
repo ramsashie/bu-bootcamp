@@ -7,6 +7,9 @@ Online AI Programs CS Foundations Bootcamp.
 - module1/ : Development environment and first Java programs
 - module2/ : Programming fundamentals (variables, control flow, methods, files)
 - module3/ : Data structures and object-oriented basics
+- module4/ : version control
+- module5/ : j-unit
+- module6/ : c-programming
  
 ## Programs
 Each module folder contains the Java source files from that module’s activity
